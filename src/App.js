@@ -395,7 +395,7 @@ function App() {
         <Navigation>
           <h1 className="main1">THE MALVERSE</h1>
           <br></br>
-          <h1 className="main2"> BUYING VIRTUAL LAND THROUGH NFT </h1>
+          <h1 className="main2"> BUYING VIRTUAL LAND THROUGH NFT'S </h1>
           <StyledButton
             onClick={(e) => {
               e.preventDefault();
@@ -749,7 +749,7 @@ function App() {
           <s.SpacerLarge />
           <p className="proj">
           Malverse is a decentralized application(DAPP) where we have created a digital island named "MALVERSE".
-          In our platform users can buy sandbox sub-land and view their land details. The sub-land will be
+          In our platform users can buy Malverse digital land  and view their land details. The sub-land will be
           represented in the form of NFT's.
           </p>
           <s.SpacerLarge />
